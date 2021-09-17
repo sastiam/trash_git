@@ -1,0 +1,1 @@
+- Viewed staged and unstaged files
